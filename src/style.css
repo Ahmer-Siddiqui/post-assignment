@@ -1,0 +1,21 @@
+.title{
+    text-align: center;
+
+}
+.profile{
+    border: 1px solid black;
+    margin: 50px;
+    width: 500px;
+    
+    
+    
+    
+}
+.imageDiv{
+    border: 1px solid black;
+}
+.image{
+    padding-left: 400px;
+    padding-right: 200px ;
+    object-fit: cover;
+}
