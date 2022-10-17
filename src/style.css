@@ -13,9 +13,19 @@
 }
 .imageDiv{
     border: 1px solid black;
+    height: 490px;
+}
+.main{
+ display: flex;
+ flex-direction: column;
+ align-items: center;
 }
 .image{
-    padding-left: 400px;
-    padding-right: 200px ;
+height: 100%;
+width: 100%;
     object-fit: cover;
+    background-position: center;
+   background-size: cover;
+flex-direction: row;
 }
+
